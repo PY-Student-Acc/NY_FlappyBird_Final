@@ -1,0 +1,612 @@
+{
+  "e0dc5791-9049-4017-ae48-88b7fcfedda3": {
+    "url": "db://assets/GameResources",
+    "value": {},
+    "versionCode": 1
+  },
+  "4739b68a-31ef-4acf-b355-55c521709160": {
+    "url": "db://assets/GameResources/Background",
+    "value": {},
+    "versionCode": 1
+  },
+  "791e961d-4f12-4168-943c-90077407da6a": {
+    "url": "db://assets/GameResources/Bird",
+    "value": {},
+    "versionCode": 1
+  },
+  "0250089f-a6e8-4f87-b89c-d5b8a747ebd4": {
+    "url": "db://assets/GameResources/Fonts",
+    "value": {},
+    "versionCode": 1
+  },
+  "4f1e0c0c-cb84-4f3d-851d-b341102785ac": {
+    "url": "db://assets/GameResources/Ground",
+    "value": {},
+    "versionCode": 1
+  },
+  "4928bea0-7bcc-47ed-982f-9dddc3bab43b": {
+    "url": "db://assets/GameResources/Pipes",
+    "value": {},
+    "versionCode": 1
+  },
+  "b184f4fa-7092-495a-87fc-fe42f0730f3e": {
+    "url": "db://assets/Prefabs",
+    "value": {},
+    "versionCode": 1
+  },
+  "36651896-d343-40c6-bd68-848fa8546908": {
+    "url": "db://assets/Scenes",
+    "value": {},
+    "versionCode": 1
+  },
+  "be73c580-8bd1-4e28-a5e3-8f379ae1a1f7": {
+    "url": "db://assets/Scripts",
+    "value": {},
+    "versionCode": 1
+  },
+  "d6b8d1da-d241-4e94-a367-64655987825d": {
+    "url": "db://assets/Animations",
+    "value": {},
+    "versionCode": 1
+  },
+  "837fa2f0-8897-49b8-a7be-c4010eaf6f04": {
+    "url": "db://assets/GameResources/Fonts/FlappyBirdRegular-9Pq0.ttf",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "b7033930-8ac6-4c84-8872-73456fe78d36": {
+    "url": "db://assets/GameResources/audio/die.ogg",
+    "value": {},
+    "versionCode": 1
+  },
+  "ff9df7f1-dcab-45c2-8427-364d68a3f792": {
+    "url": "db://assets/GameResources/audio/die.wav",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "85bfda60-d9c2-4e76-ab90-be7fb50899fd": {
+    "url": "db://assets/GameResources/audio/hit.ogg",
+    "value": {},
+    "versionCode": 1
+  },
+  "f13834f2-9850-4ca9-be45-faad0c1fc7b3": {
+    "url": "db://assets/GameResources/audio/hit.wav",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "b0d5286b-1e2a-4527-9069-9cc7cf673772": {
+    "url": "db://assets/GameResources/audio",
+    "value": {},
+    "versionCode": 1
+  },
+  "393a0e9d-bcb2-43c0-a243-dc966e20ae69": {
+    "url": "db://assets/GameResources/audio/point.ogg",
+    "value": {},
+    "versionCode": 1
+  },
+  "b25ac699-bf10-4bee-afae-16624be1b4a3": {
+    "url": "db://assets/GameResources/audio/point.wav",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "ef233147-ee96-46b3-881b-93d1208677b0": {
+    "url": "db://assets/GameResources/audio/swoosh.ogg",
+    "value": {},
+    "versionCode": 1
+  },
+  "02d7d712-045d-4c25-9dd3-1a457eb5eb2a": {
+    "url": "db://assets/GameResources/audio/swoosh.wav",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "f7af23a5-bb1f-4bb4-a18b-4116e3141607": {
+    "url": "db://assets/GameResources/audio/wing.ogg",
+    "value": {},
+    "versionCode": 1
+  },
+  "7c2255a9-dc1d-4e05-9714-18de9060a0ff": {
+    "url": "db://assets/GameResources/audio/wing.wav",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "b7625475-8171-4898-9675-cd21247cc196": {
+    "url": "db://assets/GameResources/Background/background-day.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "b7625475-8171-4898-9675-cd21247cc196@6c48a": {
+    "url": "db://assets/GameResources/Background/background-day.png@6c48a",
+    "value": {
+      "depends": [
+        "b7625475-8171-4898-9675-cd21247cc196"
+      ]
+    },
+    "versionCode": 1
+  },
+  "b7625475-8171-4898-9675-cd21247cc196@f9941": {
+    "url": "db://assets/GameResources/Background/background-day.png@f9941",
+    "value": {
+      "depends": [
+        "b7625475-8171-4898-9675-cd21247cc196@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "6ee3aff0-e973-42c4-8aac-e6a2fba09dad": {
+    "url": "db://assets/GameResources/Background/background-night.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "6ee3aff0-e973-42c4-8aac-e6a2fba09dad@6c48a": {
+    "url": "db://assets/GameResources/Background/background-night.png@6c48a",
+    "value": {
+      "depends": [
+        "6ee3aff0-e973-42c4-8aac-e6a2fba09dad"
+      ]
+    },
+    "versionCode": 1
+  },
+  "6ee3aff0-e973-42c4-8aac-e6a2fba09dad@f9941": {
+    "url": "db://assets/GameResources/Background/background-night.png@f9941",
+    "value": {
+      "depends": [
+        "6ee3aff0-e973-42c4-8aac-e6a2fba09dad@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "a3d77037-353e-48a1-8ffd-e956e67d3572": {
+    "url": "db://assets/GameResources/Bird/redbird-upflap.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "a3d77037-353e-48a1-8ffd-e956e67d3572@6c48a": {
+    "url": "db://assets/GameResources/Bird/redbird-upflap.png@6c48a",
+    "value": {
+      "depends": [
+        "a3d77037-353e-48a1-8ffd-e956e67d3572"
+      ]
+    },
+    "versionCode": 1
+  },
+  "a3d77037-353e-48a1-8ffd-e956e67d3572@f9941": {
+    "url": "db://assets/GameResources/Bird/redbird-upflap.png@f9941",
+    "value": {
+      "depends": [
+        "a3d77037-353e-48a1-8ffd-e956e67d3572@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "45b668f0-3bac-44f4-a486-fc0a199dd747": {
+    "url": "db://assets/GameResources/Bird/redbird-downflap.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "45b668f0-3bac-44f4-a486-fc0a199dd747@6c48a": {
+    "url": "db://assets/GameResources/Bird/redbird-downflap.png@6c48a",
+    "value": {
+      "depends": [
+        "45b668f0-3bac-44f4-a486-fc0a199dd747"
+      ]
+    },
+    "versionCode": 1
+  },
+  "45b668f0-3bac-44f4-a486-fc0a199dd747@f9941": {
+    "url": "db://assets/GameResources/Bird/redbird-downflap.png@f9941",
+    "value": {
+      "depends": [
+        "45b668f0-3bac-44f4-a486-fc0a199dd747@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "a84b602a-b389-49b2-88ab-911cb2b8eaef": {
+    "url": "db://assets/GameResources/Bird/yellowbird-downflap.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "a84b602a-b389-49b2-88ab-911cb2b8eaef@6c48a": {
+    "url": "db://assets/GameResources/Bird/yellowbird-downflap.png@6c48a",
+    "value": {
+      "depends": [
+        "a84b602a-b389-49b2-88ab-911cb2b8eaef"
+      ]
+    },
+    "versionCode": 1
+  },
+  "a84b602a-b389-49b2-88ab-911cb2b8eaef@f9941": {
+    "url": "db://assets/GameResources/Bird/yellowbird-downflap.png@f9941",
+    "value": {
+      "depends": [
+        "a84b602a-b389-49b2-88ab-911cb2b8eaef@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "d7328175-8a1c-4e61-a23d-8d1bae1761fb": {
+    "url": "db://assets/GameResources/Bird/redbird-midflap.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "d7328175-8a1c-4e61-a23d-8d1bae1761fb@6c48a": {
+    "url": "db://assets/GameResources/Bird/redbird-midflap.png@6c48a",
+    "value": {
+      "depends": [
+        "d7328175-8a1c-4e61-a23d-8d1bae1761fb"
+      ]
+    },
+    "versionCode": 1
+  },
+  "d7328175-8a1c-4e61-a23d-8d1bae1761fb@f9941": {
+    "url": "db://assets/GameResources/Bird/redbird-midflap.png@f9941",
+    "value": {
+      "depends": [
+        "d7328175-8a1c-4e61-a23d-8d1bae1761fb@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "4693f1b2-60fe-4865-9a8a-4d831e677e59": {
+    "url": "db://assets/GameResources/Bird/yellowbird-upflap.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "4693f1b2-60fe-4865-9a8a-4d831e677e59@6c48a": {
+    "url": "db://assets/GameResources/Bird/yellowbird-upflap.png@6c48a",
+    "value": {
+      "depends": [
+        "4693f1b2-60fe-4865-9a8a-4d831e677e59"
+      ]
+    },
+    "versionCode": 1
+  },
+  "4693f1b2-60fe-4865-9a8a-4d831e677e59@f9941": {
+    "url": "db://assets/GameResources/Bird/yellowbird-upflap.png@f9941",
+    "value": {
+      "depends": [
+        "4693f1b2-60fe-4865-9a8a-4d831e677e59@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "c8fe87b6-1543-4377-8a7b-ea9c1875ac44": {
+    "url": "db://assets/GameResources/Bird/yellowbird-midflap.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "c8fe87b6-1543-4377-8a7b-ea9c1875ac44@6c48a": {
+    "url": "db://assets/GameResources/Bird/yellowbird-midflap.png@6c48a",
+    "value": {
+      "depends": [
+        "c8fe87b6-1543-4377-8a7b-ea9c1875ac44"
+      ]
+    },
+    "versionCode": 1
+  },
+  "c8fe87b6-1543-4377-8a7b-ea9c1875ac44@f9941": {
+    "url": "db://assets/GameResources/Bird/yellowbird-midflap.png@f9941",
+    "value": {
+      "depends": [
+        "c8fe87b6-1543-4377-8a7b-ea9c1875ac44@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "070a2f7a-cfcd-41f2-82ae-c0775acf0a37": {
+    "url": "db://assets/GameResources/Bird/bluebird-midflap.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "070a2f7a-cfcd-41f2-82ae-c0775acf0a37@6c48a": {
+    "url": "db://assets/GameResources/Bird/bluebird-midflap.png@6c48a",
+    "value": {
+      "depends": [
+        "070a2f7a-cfcd-41f2-82ae-c0775acf0a37"
+      ]
+    },
+    "versionCode": 1
+  },
+  "070a2f7a-cfcd-41f2-82ae-c0775acf0a37@f9941": {
+    "url": "db://assets/GameResources/Bird/bluebird-midflap.png@f9941",
+    "value": {
+      "depends": [
+        "070a2f7a-cfcd-41f2-82ae-c0775acf0a37@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "ff4928b8-696b-40a1-bc64-d5d34644aedb": {
+    "url": "db://assets/GameResources/Bird/bluebird-downflap.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "ff4928b8-696b-40a1-bc64-d5d34644aedb@6c48a": {
+    "url": "db://assets/GameResources/Bird/bluebird-downflap.png@6c48a",
+    "value": {
+      "depends": [
+        "ff4928b8-696b-40a1-bc64-d5d34644aedb"
+      ]
+    },
+    "versionCode": 1
+  },
+  "ff4928b8-696b-40a1-bc64-d5d34644aedb@f9941": {
+    "url": "db://assets/GameResources/Bird/bluebird-downflap.png@f9941",
+    "value": {
+      "depends": [
+        "ff4928b8-696b-40a1-bc64-d5d34644aedb@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "fe11e6c3-4bad-4c14-af40-49e914f853d5": {
+    "url": "db://assets/GameResources/Bird/bluebird-upflap.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "fe11e6c3-4bad-4c14-af40-49e914f853d5@6c48a": {
+    "url": "db://assets/GameResources/Bird/bluebird-upflap.png@6c48a",
+    "value": {
+      "depends": [
+        "fe11e6c3-4bad-4c14-af40-49e914f853d5"
+      ]
+    },
+    "versionCode": 1
+  },
+  "fe11e6c3-4bad-4c14-af40-49e914f853d5@f9941": {
+    "url": "db://assets/GameResources/Bird/bluebird-upflap.png@f9941",
+    "value": {
+      "depends": [
+        "fe11e6c3-4bad-4c14-af40-49e914f853d5@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "20d03c69-8dd9-45ad-9a8d-eab29d724d53": {
+    "url": "db://assets/GameResources/Pipes/pipe-green.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "20d03c69-8dd9-45ad-9a8d-eab29d724d53@6c48a": {
+    "url": "db://assets/GameResources/Pipes/pipe-green.png@6c48a",
+    "value": {
+      "depends": [
+        "20d03c69-8dd9-45ad-9a8d-eab29d724d53"
+      ]
+    },
+    "versionCode": 1
+  },
+  "20d03c69-8dd9-45ad-9a8d-eab29d724d53@f9941": {
+    "url": "db://assets/GameResources/Pipes/pipe-green.png@f9941",
+    "value": {
+      "depends": [
+        "20d03c69-8dd9-45ad-9a8d-eab29d724d53@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "a16324fc-088c-478d-a131-8102945cee52": {
+    "url": "db://assets/GameResources/Pipes/pipe-red.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "a16324fc-088c-478d-a131-8102945cee52@6c48a": {
+    "url": "db://assets/GameResources/Pipes/pipe-red.png@6c48a",
+    "value": {
+      "depends": [
+        "a16324fc-088c-478d-a131-8102945cee52"
+      ]
+    },
+    "versionCode": 1
+  },
+  "a16324fc-088c-478d-a131-8102945cee52@f9941": {
+    "url": "db://assets/GameResources/Pipes/pipe-red.png@f9941",
+    "value": {
+      "depends": [
+        "a16324fc-088c-478d-a131-8102945cee52@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "67110fc2-dd25-4248-bf3b-a6e4ddc4de5a": {
+    "url": "db://assets/GameResources/Ground/base.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "67110fc2-dd25-4248-bf3b-a6e4ddc4de5a@6c48a": {
+    "url": "db://assets/GameResources/Ground/base.png@6c48a",
+    "value": {
+      "depends": [
+        "67110fc2-dd25-4248-bf3b-a6e4ddc4de5a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "67110fc2-dd25-4248-bf3b-a6e4ddc4de5a@f9941": {
+    "url": "db://assets/GameResources/Ground/base.png@f9941",
+    "value": {
+      "depends": [
+        "67110fc2-dd25-4248-bf3b-a6e4ddc4de5a@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "0a11f2b6-9bf5-4771-92af-863fb90f6a95": {
+    "url": "db://assets/GameResources/Fonts/message.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "0a11f2b6-9bf5-4771-92af-863fb90f6a95@6c48a": {
+    "url": "db://assets/GameResources/Fonts/message.png@6c48a",
+    "value": {
+      "depends": [
+        "0a11f2b6-9bf5-4771-92af-863fb90f6a95"
+      ]
+    },
+    "versionCode": 1
+  },
+  "0a11f2b6-9bf5-4771-92af-863fb90f6a95@f9941": {
+    "url": "db://assets/GameResources/Fonts/message.png@f9941",
+    "value": {
+      "depends": [
+        "0a11f2b6-9bf5-4771-92af-863fb90f6a95@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "8a2c2416-ff5e-4fb2-9c78-d216bca7d2ca": {
+    "url": "db://assets/GameResources/Fonts/gameover.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "8a2c2416-ff5e-4fb2-9c78-d216bca7d2ca@6c48a": {
+    "url": "db://assets/GameResources/Fonts/gameover.png@6c48a",
+    "value": {
+      "depends": [
+        "8a2c2416-ff5e-4fb2-9c78-d216bca7d2ca"
+      ]
+    },
+    "versionCode": 1
+  },
+  "8a2c2416-ff5e-4fb2-9c78-d216bca7d2ca@f9941": {
+    "url": "db://assets/GameResources/Fonts/gameover.png@f9941",
+    "value": {
+      "depends": [
+        "8a2c2416-ff5e-4fb2-9c78-d216bca7d2ca@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "53991fff-a720-435e-8c4a-28c847e81daf": {
+    "url": "db://assets/Scripts/Ground.scene",
+    "value": {},
+    "versionCode": 2
+  },
+  "ecb3b36e-a583-4697-885b-886b8d077990": {
+    "url": "db://assets/Scripts/Ground.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "c5a7fbb1-63d5-43d6-b6a7-0c1771ea8f0a": {
+    "url": "db://assets/scene.scene",
+    "value": {
+      "depends": [
+        "b7625475-8171-4898-9675-cd21247cc196@f9941",
+        "a84b602a-b389-49b2-88ab-911cb2b8eaef@f9941",
+        "25578101-a0d7-492f-989e-4d8106458680",
+        "837fa2f0-8897-49b8-a7be-c4010eaf6f04",
+        "67110fc2-dd25-4248-bf3b-a6e4ddc4de5a@f9941",
+        "921947f3-c26f-4fb4-870f-4f1eafe0d324",
+        "02d7d712-045d-4c25-9dd3-1a457eb5eb2a",
+        "b25ac699-bf10-4bee-afae-16624be1b4a3",
+        "f13834f2-9850-4ca9-be45-faad0c1fc7b3",
+        "ff9df7f1-dcab-45c2-8427-364d68a3f792"
+      ],
+      "dependScripts": [
+        "b13cbc95-67a4-4b3a-a245-0b6143734cc6",
+        "ecb3b36e-a583-4697-885b-886b8d077990",
+        "619036bd-1137-49ae-b2ff-9ab9260cbcec",
+        "8631851a-7950-4273-9e45-d04a814f5731",
+        "25e9beef-b49a-4724-945d-23f3005d5928",
+        "af99f02b-8c4f-4ade-ac8c-29884e611d92"
+      ]
+    },
+    "versionCode": 2
+  },
+  "b13cbc95-67a4-4b3a-a245-0b6143734cc6": {
+    "url": "db://assets/Scripts/GameCTRL.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "8631851a-7950-4273-9e45-d04a814f5731": {
+    "url": "db://assets/Scripts/Results.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "619036bd-1137-49ae-b2ff-9ab9260cbcec": {
+    "url": "db://assets/Scripts/Bird.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "25578101-a0d7-492f-989e-4d8106458680": {
+    "url": "db://assets/Animations/birdAnimation.anim",
+    "value": {
+      "depends": [
+        "4693f1b2-60fe-4865-9a8a-4d831e677e59@f9941",
+        "a84b602a-b389-49b2-88ab-911cb2b8eaef@f9941"
+      ]
+    },
+    "versionCode": 2
+  },
+  "558f528e-cbe5-4793-96ba-62c4c095e189": {
+    "url": "db://assets/Scripts/Pipes.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "921947f3-c26f-4fb4-870f-4f1eafe0d324": {
+    "url": "db://assets/Prefabs/Pipe.prefab",
+    "value": {
+      "depends": [
+        "20d03c69-8dd9-45ad-9a8d-eab29d724d53@f9941"
+      ],
+      "dependScripts": [
+        "558f528e-cbe5-4793-96ba-62c4c095e189"
+      ]
+    },
+    "versionCode": 2
+  },
+  "25e9beef-b49a-4724-945d-23f3005d5928": {
+    "url": "db://assets/Scripts/PipePool.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "af99f02b-8c4f-4ade-ac8c-29884e611d92": {
+    "url": "db://assets/Scripts/BirdAudio.ts",
+    "value": {},
+    "versionCode": 1
+  }
+}
